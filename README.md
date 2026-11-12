@@ -29,3 +29,5 @@ Animated GIFs for my mod pages.
 ![Visible upgrades](moving-parts/roadwarriors-upgrades.gif)
 
 ![Power link](moving-parts/roadwarriors-power-link.gif)
+
+![Roadwarriors link](moving-parts/roadwarriors-link.gif)
