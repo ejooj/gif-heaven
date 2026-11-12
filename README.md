@@ -27,3 +27,5 @@ Animated GIFs for my mod pages.
 ![Mud splashes](moving-parts/roadwarriors-mud.gif)
 
 ![Visible upgrades](moving-parts/roadwarriors-upgrades.gif)
+
+![Power link](moving-parts/roadwarriors-power-link.gif)
